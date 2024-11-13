@@ -33,7 +33,7 @@ int main() {
 
     // Print the maximum and minimum values
     cout << "Largest element: " << max << endl;
-    cout << "Smallest element: 16god " << min << endl;
+    cout << "Smallest element: 16" << min << endl;
 
     return 0;
 }
